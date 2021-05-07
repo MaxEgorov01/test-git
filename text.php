@@ -1,3 +1,5 @@
-<?phP
-$text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer condimentum orci vel libero blandit, a gravida odio pulvinar. Proin elementum feugiat risus nec consequat. Integer a ornare augue, sed euismod enim. Morbi consequat lectus quam, vitae euismod lectus vulputate fringilla. Phasellus ultricies feugiat pellentesque. Sed volutpat lacus non mi auctor, id ultricies ipsum pretium. Fusce ut purus eros. Sed id erat neque. Aliquam dapibus dolor sed neque lacinia consectetur. Proin congue, mauris sed vulputate vestibulum, odio libero accumsan mauris, vel varius velit est a nunc. Fusce eget tortor magna. Vivamus neque erat, ultrices at porttitor et, feugiat pellentesque urna. Aenean metus lorem, tempus sodales posuere ac, sodales id enim. Nulla interdum, lectus vel iaculis elementum, tellus tellus consequat nibh, ultrices convallis turpis urna vel dui. Integer ipsum magna, lobortis vitae ligula sed, tempus vulputate felis. Sed posuere odio eu leo tincidunt, non elementum purus eleifend."; 
+<?php
+
+$text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam leo nisi, venenatis ac sem imperdiet, sollicitudin venenatis orci. Praesent at lacus ipsum. Fusce cursus nulla vitae semper gravida. Sed a sem luctus, ultrices ligula quis, semper sapien. Praesent eget aliquam ante. Integer eu justo et risus dapibus egestas. Sed ante metus, convallis eu faucibus a, malesuada quis eros. Cras rutrum in erat at tincidunt. Nunc maximus eget nisi et elementum.";
+
 ?>
